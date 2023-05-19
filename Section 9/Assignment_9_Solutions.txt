@@ -1,0 +1,30 @@
+Assignment 9 - Exceptions
+
+Questions:
+1. Write a try-catch block without any code inside them. This activity helps you recollect a typical try-catch block syntax.
+2. Write a code snippet to print “success” message inside try block and “exception” message inside the catch block. You may copy-paste the previous answer and extend it. 
+3. Write a code snippet to read phone price and print “success” message. If any exception occurs, then print “exception”. You may copy-paste the previous answer and extend it. 
+
+Answers:
+Answer 1:
+try
+
+catch
+
+endtry
+
+Answer 2:
+try
+    print "success"
+catch
+    print "exception"
+endtry
+
+Answer 3: 
+try
+    define phonePrice as integer
+    read phonePrice
+    print "success"
+catch
+    print "exception"
+endtry

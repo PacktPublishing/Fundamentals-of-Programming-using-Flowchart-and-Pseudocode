@@ -1,0 +1,26 @@
+Assignment: Functions
+
+Questions:
+1. Write a statement to define a function signature for CalculatePhonePrice which accepts the phone model as input and returns nothing.
+2. Extend your previous statements to compare the phone model and if its iPhone returns 1000.
+3. Extend your previous pseudocode to declare phonePrice variable, store the phone price in it, and return the phone price using this variable.
+
+Answers:
+Answer 1:
+CalculatePhonePrice(phoneModel as string) returns integer
+
+Answer 2:
+CalculatePhonePrice(phoneModel as string) returns integer
+start
+    if phoneModel equals "iPhone"
+   	 return 1000
+end
+
+Answer 3: 
+CalculatePhonePrice(phoneModel as string) returns integer
+start
+    declare phonePrice as integer
+    if phoneModel equals "iPhone"
+   	 assign 1000 to phonePrice
+    return phonePrice
+end

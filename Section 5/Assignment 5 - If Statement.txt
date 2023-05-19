@@ -1,0 +1,13 @@
+Assignment 5 - If Statement
+Assume a variable phonePrice of type integer holding the price of a phone in dollars. Share your approach to using 'if' statements for the below situations.
+
+Questions:
+
+Write a statement to compare the phone price to less than 300 here.
+
+Write a statement to compare the phone price between 300 and 800.
+
+Write a pseudocode to print high-end if the phone's price exceeds 800.
+
+Write a sequence of statements to print budget,  mid-range or high-end, based on the price range of the phone - less than 300, between 300 and 800, and more than 800 - respectively.
+

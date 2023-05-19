@@ -1,0 +1,14 @@
+Assignment 1 - Pseudocode
+It’s time to create your first set of pseudocodes!
+
+Create your first set of pseudocodes for simple problem statements in Notepad++ (Windows) or CotEditor (Mac).
+
+Remember not to worry about syntax and case sensitivity for now. Pseudocode is meant to convey the actions in a descriptive form.
+
+Questions:
+
+Write a Pseudocode to read the name and then print the entered name.
+
+Write a Pseudocode to read the name and then print the word hello followed by the name entered.
+
+Write a Pseudocode to read the day and then print the weekend started if the day is Saturday.

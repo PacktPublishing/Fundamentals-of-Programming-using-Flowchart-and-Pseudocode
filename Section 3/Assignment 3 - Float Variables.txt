@@ -1,0 +1,8 @@
+Assignment 3 - Float Variables
+Write simple pseudocode for these simple statements.
+
+Questions:
+
+Write a statement to declare a variable balance as a float.
+
+Write a statement to declare a variable temperature as a float and then assign 37.5 to it.

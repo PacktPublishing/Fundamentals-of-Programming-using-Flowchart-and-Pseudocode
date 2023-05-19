@@ -1,0 +1,6 @@
+Assignment 2 - Integer Variables
+Check your understanding of integer variables by writing a sequence of statements for some simple problem statements.
+
+Write a statement to declare a variable totalStudents as an integer.
+
+Write a statement to declare a variable zipcode as an integer and then assign 560145 to it.

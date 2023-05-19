@@ -1,0 +1,8 @@
+Assignment 4 - String Variables
+Write simple pseudocode for these statements.
+
+Questions:
+
+Write a statement to declare a variable studentName as a string.
+
+Write a statement to declare a variable result as a string, assign none first and then assign success.

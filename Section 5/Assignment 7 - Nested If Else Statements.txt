@@ -1,0 +1,7 @@
+Assignment 7 - Nested If Else Statements
+Rewrite your previous solutions using Nested If Else statements.
+
+Questions:
+
+Write a sequence of statements to print “budget,” “mid-range,” or “high end” based on the price range of the phone - less than 300, between 300 and 800, and more than 800 - respectively.
+
